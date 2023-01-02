@@ -1,0 +1,28 @@
+Sohrab Namazi Nia, last 4 digits of NJIT ID: 6387
+
+I HAVE READ THE COLLABORATION SECTION OF THE SYLLABUS. DOCUMENT 3 and PRP
+ADHERED.
+
+POINTS:
+My code is highly object oriented. I have not used any specific packages to avoid making this code only runnable for some special versions. 
+it only consists of one java file + this text file
+Also, I have tested my code on NJIT linux machine.
+The implementation is exactly in the same way is it was described not only in the lecture notes but also in the prp documentation.
+I also dic my best to write a very high level clean code to descrive the functionality of hash tables properly.
+
+IMPORTANT:
+after deleting a word, I also replace it by stars(*) in the array A. 
+example: 
+alex/tom/sohrab/
+after deleting tom
+alex/***/sohrab/
+
+HOW TO RUN IT?
+javac Main.java
+java -classpath . Main file.txt
+
+-- file.txt can be also a file path + name of a file as well. Anyway, if the file is in the same directory, there is no need to give the path.
+For example: if the file name is test.txt and it is in the same folder as the Main.java, you only need to type the following command for running that (after compiling):
+java -classpath . Main test.txt
+
+THANK YOU!
